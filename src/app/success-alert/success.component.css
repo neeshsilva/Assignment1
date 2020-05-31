@@ -1,0 +1,10 @@
+.successWrapper{
+  height: 50px;
+  width: 200px;
+  background-color: green;
+  border-radius: 3px;
+}
+.successMsg{
+  margin-left: 20px;
+  margin-top: 50px;
+}
